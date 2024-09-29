@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit_Converter_App</string>
+    <string-array name="conversion_types">
+        <item>Centimeters to Meters</item>
+        <item>Meters to Centimeters</item>
+        <item>Grams to Kilograms</item>
+        <item>Kilograms to Grams</item>
+    </string-array>
+</resources>
